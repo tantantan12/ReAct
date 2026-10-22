@@ -1,3 +1,11 @@
+# ITOM-6229: CoT, Act-only, and ReAct lab
+
+Start with [the guided lab](LAB.md) and open [hotpotqa_classroom.ipynb](hotpotqa_classroom.ipynb) in GitHub Codespaces. The repository includes Python 3.11 configuration, Python/Jupyter extensions, automatic dependency installation, and a guided three-question comparison of CoT, Act-only, and ReAct.
+
+The classroom notebook requires an instructor-approved Responses API model ID and an API key stored as a Codespaces secret. See the lab guide for setup, checkpoints, lab notes, costs, and troubleshooting. The original research notebooks below retain their historical API calls and require separate modernization to run.
+
+---
+
 # ReAct Prompting
 
 GPT-3 prompting code for ICLR 2023 paper [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629).
